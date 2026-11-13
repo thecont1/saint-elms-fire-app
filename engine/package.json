@@ -19,7 +19,7 @@
     "@mastra/core": "^1.77.0",
     "@sef/shared": "workspace:*",
     "aws4fetch": "1.0.20",
-    "hono": "^4.10.1",
+    "hono": "^4.13.16",
     "ollama-ai-provider-v2": "^1.5.0",
     "pdfjs-dist": "6.4.299",
     "yaml": "^2.8.1",
