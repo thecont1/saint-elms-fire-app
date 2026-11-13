@@ -20,7 +20,7 @@
     "staff:grant": "tsx src/scripts/grant-staff.ts"
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.5",
+    "@hono/node-server": "^2.1.6",
     "@sef/shared": "workspace:*",
     "better-auth": "1.7.7",
     "hono": "^4.10.1",
